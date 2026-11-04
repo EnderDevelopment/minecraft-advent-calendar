@@ -1,0 +1,15 @@
+name: Calender
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+author: EnderDevelopment
+description: Adventskalender Plugin für Minecraft
+api-version: "1.21"
+commands:
+  calender:
+    description: Öffnet den Adventskalender.
+    usage: /calender
+    permission: calender.admin
+permissions:
+  calender.admin:
+    description: Erlaubt das Testen des Plugins vor dem 21.12.
+    default: op

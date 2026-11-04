@@ -1,0 +1,156 @@
+# Adventskalender Konfiguration
+# Hier können die Geschenke für jeden Tag des Adventskalenders definiert werden.
+# Jeder Tag hat ein Material, eine Anzahl und einen Namen.
+
+# Beispiel für ein Geschenk:
+# day1:
+#   material: DIAMOND
+#   amount: 1
+#   name: "Diamant"
+
+# Geschenke für den Adventskalender
+# Jeder Tag hat ein eigenes Geschenk
+
+# Tag 1
+# day1:
+#   material: DIAMOND
+#   amount: 1
+#   name: "Diamant"
+
+# Tag 2
+# day2:
+#   material: EMERALD
+#   amount: 1
+#   name: "Smaragd"
+
+# Tag 3
+# day3:
+#   material: GOLD_INGOT
+#   amount: 1
+#   name: "Goldbarren"
+
+# Tag 4
+# day4:
+#   material: IRON_INGOT
+#   amount: 1
+#   name: "Eisenbarren"
+
+# Tag 5
+# day5:
+#   material: COAL
+#   amount: 1
+#   name: "Kohle"
+
+# Tag 6
+# day6:
+#   material: REDSTONE
+#   amount: 1
+#   name: "Redstone"
+
+# Tag 7
+# day7:
+#   material: LAPIS_LAZULI
+#   amount: 1
+#   name: "Lapislazuli"
+
+# Tag 8
+# day8:
+#   material: DIAMOND_SWORD
+#   amount: 1
+#   name: "Diamantschwert"
+
+# Tag 9
+# day9:
+#   material: DIAMOND_PICKAXE
+#   amount: 1
+#   name: "Diamantspitzhacke"
+
+# Tag 10
+# day10:
+#   material: DIAMOND_AXE
+#   amount: 1
+#   name: "Diamantenaxt"
+
+# Tag 11
+# day11:
+#   material: DIAMOND_SHOVEL
+#   amount: 1
+#   name: "Diamantenschaufel"
+
+# Tag 12
+# day12:
+#   material: DIAMOND_HOE
+#   amount: 1
+#   name: "Diamantenschaufel"
+
+# Tag 13
+# day13:
+#   material: DIAMOND_HELMET
+#   amount: 1
+#   name: "Diamantenhelm"
+
+# Tag 14
+# day14:
+#   material: DIAMOND_CHESTPLATE
+#   amount: 1
+#   name: "Diamantenbrustplatte"
+
+# Tag 15
+# day15:
+#   material: DIAMOND_LEGGINGS
+#   amount: 1
+#   name: "Diamantenhose"
+
+# Tag 16
+# day16:
+#   material: DIAMOND_BOOTS
+#   amount: 1
+#   name: "Diamantenstiefel"
+
+# Tag 17
+# day17:
+#   material: DIAMOND_HORSE_ARMOR
+#   amount: 1
+#   name: "Diamantenpferderüstung"
+
+# Tag 18
+# day18:
+#   material: DIAMOND_BLOCK
+#   amount: 1
+#   name: "Diamantenblock"
+
+# Tag 19
+# day19:
+#   material: DIAMOND_ORE
+#   amount: 1
+#   name: "Diamanterz"
+
+# Tag 20
+# day20:
+#   material: DIAMOND_SWORD
+#   amount: 1
+#   name: "Diamantschwert"
+
+# Tag 21
+# day21:
+#   material: DIAMOND_PICKAXE
+#   amount: 1
+#   name: "Diamantspitzhacke"
+
+# Tag 22
+# day22:
+#   material: DIAMOND_AXE
+#   amount: 1
+#   name: "Diamantenaxt"
+
+# Tag 23
+# day23:
+#   material: DIAMOND_SHOVEL
+#   amount: 1
+#   name: "Diamantenschaufel"
+
+# Tag 24
+# day24:
+#   material: DIAMOND_HOE
+#   amount: 1
+#   name: "Diamantenschaufel"
